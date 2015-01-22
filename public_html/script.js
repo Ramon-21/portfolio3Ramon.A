@@ -10,7 +10,7 @@ $("document").ready(function(){
     
       $('#superHuman').accordion({header:"h3"});
       
-      $("body").css("background-color", "grey")
+      $("body").css("background-color", "red");
     
     //this is for the background color and for the border style
     $('div:last p:nth-child(2)').css('background-color', 'red');
